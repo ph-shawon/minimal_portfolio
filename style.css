@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+section {
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 130px;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+#exp{
+    font-size: 40px;
+    margin-left: 72px;
+}
+
+.shawon {
+    margin-top: -30px;
+}
+
+.highlight {
+    color: orange;
+}
+
+.half_width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+.hero_image {
+    width: 500px;
+    height: 400px;
+    padding-top: 20px;
+}
+
+.top_banner {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.lorem {
+    padding-bottom: 20px;
+}
+
+.hire_button {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+}
+
+
+.dream_image {
+    padding-top: 40px;
+    width: 430px;
+    height: 430px;
+}
+
+.resume_button {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+}
+
+.dream_section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.exp_area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.single_box {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+    padding-top: 30px;
+    background: white;
+}
+
+#wordpress{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#full_stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1; 
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+}
