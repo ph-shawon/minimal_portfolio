@@ -1,1 +1,1 @@
-# minimal_portfolio
+# minimalist_portfolio
